@@ -23,3 +23,6 @@ output_path = "~/.config/spotify-player/theme.toml"
 [templates.starship]
 input_path = 'templates/starship.toml.tera'
 output_path = '~/.config/starship.toml'
+[templates.swayosd]
+input_path = 'templates/swayosd.css'
+output_path = '~/.config/swayosd/style.css'

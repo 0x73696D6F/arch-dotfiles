@@ -5,18 +5,19 @@
 The first thing I want to say is that I spent a lot of time building a **dynamic color system**. I really enjoy changing wallpapers, so I wanted a setup where switching the background automatically updates the colors across my entire environment (Hyprland, Waybar, Fish, Rofi, etc.).
 
 I didn’t find many clear guides online, so I hope this repository can help someone who is starting from scratch, just like I was.
-
+[
 ## Packages I Use
 
 * Hyprland
 * Waybar
 * Rofi
-* Wofi
 * Matugen (for extracting colors from images)
 * Fish (shell)
 * Kitty
 * Zen Browser
 * spotify_player (might change in the future)
+* swayosd
+* swaync
 
 ## Hyprland
 
