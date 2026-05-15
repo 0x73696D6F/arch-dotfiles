@@ -1,0 +1,11 @@
+/* File generato automaticamente da Matugen */
+@define-color primary {{colors.primary.default.hex}};
+@define-color primary_fixed {{colors.primary_fixed.default.hex}};
+@define-color secondary {{colors.secondary.default.hex}};
+@define-color background {{colors.background.default.hex}};
+@define-color surface {{colors.surface.default.hex}};
+@define-color surface_container {{colors.surface_container.default.hex}};
+@define-color inverse_surface {{colors.inverse_surface.default.hex}};
+@define-color outline {{colors.outline.default.hex}};
+@define-color on_surface {{colors.on_surface.default.hex}};
+@define-color secondary_fixed {{colors.secondary_fixed.default.hex}};

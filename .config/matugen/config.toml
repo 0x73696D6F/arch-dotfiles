@@ -1,0 +1,25 @@
+[config]
+[templates.hypr]
+input_path = "templates/hyprland.conf"
+output_path = "~/.config/hypr/scheme/current.conf"
+[templates.waybar]
+input_path = 'templates/waybar.css'
+output_path = '~/.cache/matugen/colors.css'
+[templates.rofi]
+input_path = 'templates/rofi.rasi'
+output_path = '~/.cache/matugen/colors.rasi'
+[templates.fish]
+input_path = "templates/fish_colors.fish"
+output_path = "~/.config/fish/completions/matugen_colors.fish"
+[templates.kitty]
+input_path = "templates/kitty.conf"
+output_path = "~/.config/kitty/colors.conf"
+[templates.hyprlock]
+input_path = "templates/hyprlock.conf"
+output_path = "~/.config/hyprlock/colors.conf"
+[templates.spotify]
+input_path = "templates/spotify.toml"
+output_path = "~/.config/spotify-player/theme.toml"
+[templates.starship]
+input_path = 'templates/starship.toml.tera'
+output_path = '~/.config/starship.toml'

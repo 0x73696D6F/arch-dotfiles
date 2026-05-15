@@ -1,0 +1,46 @@
+{
+  "include": [
+    "$HOME/.config/waybar/Modules.jsonc",
+    "$HOME/.config/waybar/ModulesWorkspaces.jsonc",
+    "$HOME/.config/waybar/ModulesCustom.jsonc",
+    "$HOME/.config/waybar/ModulesGroups.jsonc",
+  ],
+  "layer": "bottom",
+  "exclusive": true,
+  "passthrough": false,
+  "position": "top",
+  "spacing": 3,
+  "fixed-center": true,
+  "ipc": true,
+  "margin-top": 0,
+  "margin-left": 0,
+  "margin-right": 0,
+
+  "modules-left": [
+    "custom/menu",
+    "custom/separator#blank",
+    "tray",
+    "custom/separator#line",
+    "custom/separator#blank",
+    "hyprland/workspaces",
+  ],
+
+  "modules-center": ["clock", "mpris"],
+
+  "modules-right": [
+    "memory",
+    "custom/separator#line",
+    //"disk",
+    "cpu",
+    "custom/separator#line",
+    "battery",
+    "custom/separator#line",
+    "pulseaudio",
+    "custom/separator#line",
+    "network",
+    "custom/separator#line",
+    "custom/keyboard",
+    "custom/separator#line",
+    "custom/swaync",
+  ],
+}

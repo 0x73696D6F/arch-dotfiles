@@ -1,0 +1,10 @@
+/* File generato da Matugen per Rofi */
+* {
+    background: {{colors.surface.default.hex}}CC; /* CC aggiunge un po' di trasparenza */
+    background-alt: {{colors.surface_container.default.hex}};
+    foreground: {{colors.on_surface.default.hex}};
+    selected: {{colors.primary.default.hex}};
+    active: {{colors.tertiary.default.hex}};
+    urgent: {{colors.error.default.hex}};
+    border-color: {{colors.outline.default.hex}};
+}

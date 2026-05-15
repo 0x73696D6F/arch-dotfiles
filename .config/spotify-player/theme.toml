@@ -1,0 +1,19 @@
+[[themes]]
+name = "matugen_theme"
+[themes.palette]
+background = "#181118"
+foreground = "#cdc0ca"
+primary = "#dc74ee"
+secondary = "#bf8cc3"
+error = "#ff7063"
+warning = "#7b0007"
+
+[themes.component_style]
+block_title = { fg = "#dc74ee", modifiers = ["Bold"] }
+border = { fg = "#dc74ee" }
+playback_track = { fg = "#dc74ee", modifiers = ["Bold"] }
+playback_artists = { fg = "#bf8cc3" }
+playback_album = { fg = "#cdc0ca", modifiers = ["Italic"] }
+playback_progress_bar = { bg = "#181118", fg = "#dc74ee" }
+current_playing = { fg = "#dc74ee", modifiers = ["Bold"] }
+selection = { bg = "#dc74ee", fg = "#181118", modifiers = ["Bold"] }
