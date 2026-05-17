@@ -5,7 +5,7 @@
 The first thing I want to say is that I spent a lot of time building a **dynamic color system**. I really enjoy changing wallpapers, so I wanted a setup where switching the background automatically updates the colors across my entire environment (Hyprland, Waybar, Fish, Rofi, etc.).
 
 I didn’t find many clear guides online, so I hope this repository can help someone who is starting from scratch, just like I was.
-![demo video](https://youtu.be/1RmAv2pqaDE)
+[![Demo](https://img.youtube.com/vi/1RmAv2pqaDE/0.jpg)](https://www.youtube.com/watch?v=1RmAv2pqaDE)
 ## Packages I Use
 
 * Hyprland
